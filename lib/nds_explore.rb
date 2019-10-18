@@ -47,5 +47,4 @@ movie_index = 0
     
     movie_index += 1 
   end 
-
 end
